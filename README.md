@@ -3,6 +3,7 @@
 ![GITHUB](https://cdn-learn.adafruit.com/assets/assets/000/058/685/original/light_raspi_apds9960_i2c_bb.png?1533613053)
 ## Detect I2C
 `sudo i2cdetect -y 1`
+
     pi@raspberrypi:~ $ sudo i2cdetect -y 1
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
     00:          -- -- -- -- -- -- -- -- -- -- -- -- --
