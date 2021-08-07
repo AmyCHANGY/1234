@@ -5,7 +5,7 @@
 ### On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally from PyPI. To install for current user:
 `pip3 install adafruit-circuitpython-apds9960`
 ## Usage Example
-    ```py
+```python
     # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
     # SPDX-License-Identifier: MIT
 
@@ -31,6 +31,6 @@
           print("light lux {}".format(colorutility.calculate_lux(r, g, b)))
           time.sleep(0.5)
                     )
-     ```
+```
           
           
