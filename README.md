@@ -5,6 +5,7 @@
 ### On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally from PyPI. To install for current user:
 `pip3 install adafruit-circuitpython-apds9960`
 ## Usage Example
+.. code-block:: python3
     # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
     # SPDX-License-Identifier: MIT
 
