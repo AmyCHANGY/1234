@@ -1,6 +1,6 @@
 # APDS9960
 ## I2C Wiring
-![GITHUB](https://cdn-learn.adafruit.com/assets/assets/000/050/315/original/light_m0_apds9960_bb.png?1533598600)
+![GITHUB](https://cdn-learn.adafruit.com/assets/assets/000/058/685/original/light_raspi_apds9960_i2c_bb.png?1533613053)
 ## Detect I2C
 `sudo i2cdetect -y 1`
 ## Installing from PyPI
