@@ -1,6 +1,9 @@
 # APDS9960
-## I2C Wiring
-![GITHUB]( https://learn.adafruit.com/assets/50315 )
+## I2C Wiring[![Build Status](https://github.com/adafruit/Adafruit_APDS9960/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_APDS9960/actions)
+
+<a href="https://www.adafruit.com/product/3595"><img src="assets/board.jpg?raw=true" width="500px"></a>
+
+
 ## Detect I2C
 `sudo i2cdetect -y 1`
 ## Installing from PyPI
